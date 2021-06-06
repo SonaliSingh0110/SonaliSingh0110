@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonaliSingh0110 
 - 🌱 I’m currently pursuing my Bachelors in IT(Bsc IT)
-- 💞️ Skills: HTML,CSS,NodeJs,Javascript...
+- 💞️ Skills: HTML,CSS,Python,Javascript...
 - 📫 How to reach me?-drop a mail at sonalisingg7@gmail.com
 
 <!---
