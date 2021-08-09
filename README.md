@@ -1,7 +1,7 @@
-- 👋Hi, I’m @SonaliSingh0110 
-- �I’m currently pursuing my Bachelors in IT(Bsc IT)
-- � Skills: HTML,CSS,Python,Javascript...
-- � How to reach me?-drop a mail at sonalisingg7@gmail.com
+- 👋Hi, I’m Sonali
+- �I’m currently pursuing my Bachelors in Information Technology
+- � Skills: HTML,CSS,C,C++,Python,Java...
+- � How to reach me?-Drop a mail at sonalisingg7@gmail.com
 
 <!---
 SonaliSingh0110/SonaliSingh0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
